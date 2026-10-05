@@ -424,3 +424,5 @@ Tools: SQL + Power BI
 
 Focus: Delivery Performance Analysis
 https://github.com/sushobhitnigam-commits/supply-chain-analysis/blob/main/delivery%20analysis%20dash
+sql analysis
+https://github.com/sushobhitnigam-commits/supply-chain-analysis/blob/main/delivery%20analysis.sql
